@@ -1,0 +1,8 @@
+Cara instalasi:
+1. Extract file, pindakan folder SCRIPT RG REV ke
+folder : internal -> qpython -> scripts
+2. Setting Psiphon
+Local Host: 127.0.0.1 Port: 8080
+3. Buka app qpython cari file SARNO.py klik, lalu konekkan psiphon nya
+
+Good luck !
